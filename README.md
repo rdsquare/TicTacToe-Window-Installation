@@ -1,2 +1,2 @@
-# TicTacToe-Window-Installation
-This is setup forWindow Installation of TicTacToe
+# TicTacToe-Window
+Install TicTacToe Just by clicking on T3Setup.exe file.
